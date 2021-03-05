@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Vote Xavid Pretzer for Town Meeting in Precinct 17
 
-You can use the [editor on GitHub](https://github.com/xavidotron/vote/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Arlington's town election is April 10th, 2021!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Xavid Pretzer, and I'd be honored to represent Precinct 17 in Town Meeting.
 
-### Markdown
+Arlington faces important decisions this year. I hope to become a Town Meeting member to promote:
+* Funding affordable housing
+* Allowing accessory dwelling units to help address housing costs
+* Supporting public transit
+* Prioritizing renewable energy
+* Improving accessibility
+* Improving equity for minorities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'd love to learn what's important to you and answer any questions! I invite you to email me at xavid@xavid.us
 
-```markdown
-Syntax highlighted code block
+I'm also having a Q&A Zoom event at 8pm on March 28th. [
+ https://us02web.zoom.us/j/85902596136?pwd=cWRSRU56ZU1qK2Q4aG14NXFrYkM2QT09](To attend, click here.)
 
-# Header 1
-## Header 2
-### Header 3
+For the latest information on absentee voting: [http://arlingtonma.gov/i-want-to/vote](visit the Arlington elections page).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xavidotron/vote/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thank you, and remember to vote April 10th!
+~Xavid Pretzer
