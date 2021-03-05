@@ -14,10 +14,10 @@ Arlington faces important decisions this year. I hope to become a Town Meeting m
 
 I'd love to learn what's important to you and answer any questions! I invite you to email me at xavid@xavid.us
 
-I'm also having a Q&A Zoom event at 8pm on March 28th. [
- https://us02web.zoom.us/j/85902596136?pwd=cWRSRU56ZU1qK2Q4aG14NXFrYkM2QT09](To attend, click here.)
+I'm also having a Q&A Zoom event at 8pm on March 28th. [To attend, click here.](
+ https://us02web.zoom.us/j/85902596136?pwd=cWRSRU56ZU1qK2Q4aG14NXFrYkM2QT09)
 
-For the latest information on absentee voting: [http://arlingtonma.gov/i-want-to/vote](visit the Arlington elections page).
+For the latest information on absentee voting: [visit the Arlington elections page](http://arlingtonma.gov/i-want-to/vote).
 
 Thank you, and remember to vote April 10th!
 ~Xavid Pretzer
