@@ -1,5 +1,3 @@
-# Vote Xavid Pretzer for Town Meeting in Precinct 17
-
 Arlington's town election is April 10th, 2021!
 
 I'm Xavid Pretzer, and I'd be honored to represent Precinct 17 in Town Meeting.
