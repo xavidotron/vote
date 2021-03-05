@@ -1,5 +1,6 @@
 theme: jekyll-theme-merlot
 title: Vote Xavid Pretzer
 description: for Town Meeting in Precinct 17
+show_downloads: false
 github:
   is_project_page: false
