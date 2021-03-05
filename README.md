@@ -20,4 +20,3 @@ I'm also having a Q&A Zoom event at 8pm on March 28th. [To attend, click here.](
 For the latest information on absentee voting: [visit the Arlington elections page](http://arlingtonma.gov/i-want-to/vote).
 
 Thank you, and remember to vote April 10th!
-~Xavid Pretzer
