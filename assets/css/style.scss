@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-#forkme_banner { display: none; }
+a#forkme_banner { display: none; }
 
 header h1 {
   text-transform: none;
