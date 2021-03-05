@@ -4,3 +4,12 @@
 @import "{{ site.theme }}";
 
 #forkme_banner { display: none; }
+
+header h1 {
+  text-transform: none;
+  font-size: 3em;
+}
+
+header h2 {
+  font-size: 1.5em;
+}
