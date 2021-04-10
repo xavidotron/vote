@@ -1,4 +1,4 @@
-### Statement Apr 7, 2020: As a candidate, I stand for improving equity in Arlington. Bullying and harassment have no place in our elections or town. It has come to my attention that a member of the AFR steering committee has engaged in harassing and inappropriate behavior in connection with this year’s town election. I just now learned of this behavior, and I want to say unequivocally that it is not acceptable. It is essential that we make Arlington safe and welcoming for everyone.
+### Statement Apr 7, 2020: As a candidate, I stand for improving equity in Arlington. Bullying and harassment have no place in our elections or town. It has come to my attention that a former member of the AFR steering committee has engaged in harassing and inappropriate behavior in connection with this year’s town election. I just now learned of this behavior, and I want to say unequivocally that it is not acceptable. It is essential that we make Arlington safe and welcoming for everyone.
 
 ---
 
